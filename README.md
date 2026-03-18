@@ -16,13 +16,6 @@ CODE_ORGANIZATION: code-sena
 
 <img src="https://komarev.com/ghpvc/?username=CristianJPalma&color=blueviolet&style=flat-square&label=visitors" alt="visitors" />
 ---
-## 📌 Perfil
-- **Nombre:** Cristian Javier Palma Sotto
-- **GitHub:** @CristianJPalma
-- **Email:** cristianspalmas@gmail.com
-- **Organización institucional:** code-sena
-
----
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
