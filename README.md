@@ -1,10 +1,10 @@
----
-## 📌 Perfil
-- **Nombre:** Cristian Javier Palma Sotto
-- **GitHub:** [@CristianJPalma]
-- **Email:** [cristianspalmas@gmail.com]
-- **Organización institucional:** [code-sena]
----
+<!--
+CONFIG
+FULL_NAME: Cristian Javier Palma Sotto
+GITHUB_USER: CristianJPalma
+EMAIL: cristianspalmas@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
 
 <div align="center">
 
@@ -15,6 +15,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=CristianJPalma&color=blueviolet&style=flat-square&label=visitors" alt="visitors" />
+---
+## 📌 Perfil
+- **Nombre:** Cristian Javier Palma Sotto
+- **GitHub:** @CristianJPalma
+- **Email:** cristianspalmas@gmail.com
+- **Organización institucional:** code-sena
 
 ---
 
