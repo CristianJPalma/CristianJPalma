@@ -1,3 +1,11 @@
+---
+## 📌 Perfil
+- **Nombre:** Cristian Javier Palma Sotto
+- **GitHub:** [@CristianJPalma]
+- **Email:** [cristianspalmas@gmail.com]
+- **Organización institucional:** [code-sena](https://github.com/code-sena)
+---
+
 <div align="center">
 
 # Hey there! I'm Cristian 👋
