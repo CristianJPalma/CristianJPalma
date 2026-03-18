@@ -3,7 +3,7 @@
 - **Nombre:** Cristian Javier Palma Sotto
 - **GitHub:** [@CristianJPalma]
 - **Email:** [cristianspalmas@gmail.com]
-- **Organización institucional:** [code-sena](https://github.com/code-sena)
+- **Organización institucional:** [code-sena]
 ---
 
 <div align="center">
